@@ -12,6 +12,9 @@ npx create-expo-app -e with-router
 ```sh
 npm install expo-font axios react-native-dotenv
 ```
+```sh
+npm install -g expo-cli
+```
 
 ## 📝 Notes
 
